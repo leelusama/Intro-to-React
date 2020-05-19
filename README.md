@@ -40,6 +40,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 ## Intro to React
 
 - [Intro to React](https://github.com/leelusama/intro-to-react)
+- [ToggleButton](https://github.com/leelusama/intro-to-react/tree/standalone-toggle-button)
 
 ## Learn More
 
