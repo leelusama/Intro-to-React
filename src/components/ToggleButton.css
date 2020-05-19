@@ -1,0 +1,30 @@
+.toggle-button {
+  width: 50px;
+  height: 50px;
+  padding: 5px;
+  margin: 5px;
+  box-sizing: border-box;
+
+  color: white;
+  font-weight: 700;
+
+  border-style: solid;
+  border-color: black;
+  border-width: 5px;
+}
+.toggle-button--on {
+  background-color: #008000;
+  background: linear-gradient(to bottom, #008000 50%, #006400 50%);
+}
+.toggle-button--on:hover {
+  background-color: #006400;
+  background: linear-gradient(to bottom, #006400 50%, #006400 50%);
+}
+.toggle-button--off {
+  background-color: #b22222;
+  background: linear-gradient(to bottom, #8b0000 50%, #b22222 50%);
+}
+.toggle-button--off:hover {
+  background-color: #8b0000;
+  background: linear-gradient(to bottom, #8b0000 50%, #8b0000 50%);
+}
